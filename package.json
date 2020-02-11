@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VishnuSuresh2000/TechnoShip_Server/issues"
   },
-  "homepage": "https://github.com/VishnuSuresh2000/TechnoShip_Server#readme"
+  "homepage": "https://github.com/VishnuSuresh2000/TechnoShip_Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
