@@ -1,4 +1,4 @@
-npm is created : achu
+npm is created
 
 to build : npm run build
 
