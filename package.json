@@ -1,0 +1,19 @@
+{
+  "name": "technoship_server",
+  "version": "0.0.1",
+  "description": "Server for Technoship cell web",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuSuresh2000/TechnoShip_Server.git"
+  },
+  "author": "Vishnu Suresh,Basil,Sujith,Hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishnuSuresh2000/TechnoShip_Server/issues"
+  },
+  "homepage": "https://github.com/VishnuSuresh2000/TechnoShip_Server#readme"
+}
