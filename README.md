@@ -1,5 +1,5 @@
-npm is created
+Using typescript with express js
 
-to build : npm run build
-
-to run : npm run test
+dev  : npm run dev
+build : npm run build
+start :npm run start
