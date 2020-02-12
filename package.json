@@ -4,8 +4,9 @@
   "description": "Server for Technoship cell web",
   "main": "src/index.js",
   "scripts": {
-    "test": "node bin/index.js",
-    "build": "babel src -d bin"
+    "build": "tsc -p .",
+    "start": "node bin/main.js",
+    "dev": "nodemon src/main.ts"
   },
   "repository": {
     "type": "git",
@@ -21,8 +22,10 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.8.4",
-    "@babel/core": "^7.8.4",
-    "@babel/preset-env": "^7.8.4"
+    "@types/express": "^4.17.2",
+    "@types/node": "^13.7.1",
+    "nodemon": "^2.0.2",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
   }
 }
